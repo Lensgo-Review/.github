@@ -3,7 +3,7 @@
 
 <img src="https://i.ytimg.com/vi/s1OupvlDfco/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYK4wvcQBhpS6OujhLM3JCZELlGw"
   alt="LENSGO AI Turns Real Videos into an Anime"
-  width="600"
+  width="800"
   height="450"
 />
 
@@ -27,7 +27,7 @@
 <p>This diverse range empowers marketers and content creators alike, providing complete creative freedom with minimal resources.</p>
 
 <img src="https://i.ytimg.com/vi/W8ZCb3RA7EM/hqdefault.jpg"
-  width="800"
+  width="600"
   height="450"
 />
 
