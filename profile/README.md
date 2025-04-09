@@ -1,15 +1,7 @@
 <h1>LensGo AI Review (2025): Is this AI-powered visual platform worth it?</h1>
 <p><strong>Contributor</strong> | <time datetime="2025-04-09">April 9, 2025</time></p>
-https://i.ytimg.com/vi/XkKe6Z66YZI/maxresdefault.jpg
 
 <img src="https://i.ytimg.com/vi/XkKe6Z66YZI/maxresdefault.jpg"
-  alt="LENSGO AI Turns Real Videos into an Anime"
-  width="800"
-  height="450"
-/>
-
-
-<img src="https://i.ytimg.com/vi/s1OupvlDfco/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYK4wvcQBhpS6OujhLM3JCZELlGw"
   alt="LENSGO AI Turns Real Videos into an Anime"
   width="800"
   height="450"
