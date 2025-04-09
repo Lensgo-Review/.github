@@ -3,7 +3,7 @@
 
 <img src="https://i.ytimg.com/vi/s1OupvlDfco/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYK4wvcQBhpS6OujhLM3JCZELlGw"
   alt="LENSGO AI Turns Real Videos into an Anime"
-  width="800"
+  width="600"
   height="450"
 />
 
