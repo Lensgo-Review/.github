@@ -43,6 +43,11 @@
 
 <p>Advanced functionalities provided by LensGo.ai, such as the Video Style Transfer and high-definition video conversions, typically require significant computational power. These demanding tasks could lead to increased processing times, especially if you're operating on lower-end hardware. For instance, applying elaborate animation styles or generating high-resolution videos from static images can stress your device’s resources and might even necessitate high-performance computing setups.</p>
 
+<img src="https://i.ytimg.com/vi/CIDf2K6B_dA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAAR0b8bqlCkeYnh3whk8df3c8Oeg"
+  width="600"
+  height="450"
+/>
+
 <p>Here are some points to bear in mind regarding resource usage:</p>
 
 <ul>
