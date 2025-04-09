@@ -26,6 +26,11 @@
 </ul>
 <p>This diverse range empowers marketers and content creators alike, providing complete creative freedom with minimal resources.</p>
 
+<img src="https://i.ytimg.com/vi/W8ZCb3RA7EM/hqdefault.jpg"
+  width="800"
+  height="450"
+/>
+
 <a target="_blank" href="https://lensgo.ai/?via=new">👉 Click here to test it ! </a>
 
 <h3>Time-saving Visual Content Creation</h3>
